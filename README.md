@@ -84,7 +84,7 @@
 
     .corner-image {
       position: absolute;
-      bottom: 40px;
+      bottom: 60px;
       left: 40px;
       width: 27vw;
       max-width: 270px;
