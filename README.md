@@ -1,7 +1,10 @@
+[airpods-request (3).html](https://github.com/user-attachments/files/28977748/airpods-request.3.html)
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AirPods Request</title>
   <style>
     html, body {
       margin: 0;
@@ -99,7 +102,7 @@
     I would like Airpod Pro 3s or 2s
   </div>
 
-  <img class="corner-image" src="airpods.png"
+  <img class="corner-image" src="airpods.png" alt="Cute AirPods Pro with kawaii face doodles">
 
   <audio id="bg-music" src="trafik.mp3" loop autoplay></audio>
 
