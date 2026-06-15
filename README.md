@@ -1,6 +1,3 @@
-[trafik.mp3](https://github.com/user-attachments/files/28977777/trafik.mp3)
-<img width="1024" height="1024" alt="airpods" src="https://github.com/user-attachments/assets/3bfac1c6-d41b-4500-8e8e-36f047ba8a3f" />
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -103,9 +100,11 @@
     I would like Airpod Pro 3s or 2s
   </div>
 
-  <img class="corner-image" src="airpods.png"
+  <img width="200" height="200" alt="airpods" src="https://github.com/user-attachments/assets/3bfac1c6-d41b-4500-8e8e-36f047ba8a3f" />
 
   <audio id="bg-music" src="trafik.mp3" loop autoplay></audio>
+  [trafik.mp3](https://github.com/user-attachments/files/28977777/trafik.mp3)
+
 
   <script>
     // Some browsers block autoplay with sound until the user interacts.
