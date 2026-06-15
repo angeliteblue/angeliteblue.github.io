@@ -1,6 +1,3 @@
-# angeliteblue.github.io
-airpods pls
-[airpods-request (3).html](https://github.com/user-attachments/files/28976399/airpods-request.3.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
