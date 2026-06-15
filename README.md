@@ -22,7 +22,7 @@
 
     .message {
       position: relative;
-      font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+      font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
       color: #000000;
       text-align: center;
       width: 90%;
