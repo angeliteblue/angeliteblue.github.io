@@ -89,7 +89,7 @@
       left: 40px;
       width: 27vw;
       max-width: 270px;
-      transform: rotate(-6deg);
+      transform: rotate(6deg);
       z-index: 3;
       pointer-events: none;
     }
