@@ -100,7 +100,7 @@
     I would like Airpod Pro 3s or 2s
   </div>
 
-  <img width="200" height="200" alt="airpods" src="https://github.com/user-attachments/assets/3bfac1c6-d41b-4500-8e8e-36f047ba8a3f" />
+  <img width="200" height="200" style="transform: rotate(6deg);" alt="airpods" src="https://github.com/user-attachments/assets/3bfac1c6-d41b-4500-8e8e-36f047ba8a3f" />
 
   <audio id="bg-music" src="trafik.mp3" loop autoplay></audio>
   [trafik.mp3](https://github.com/user-attachments/files/28977777/trafik.mp3)
